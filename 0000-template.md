@@ -49,4 +49,4 @@ Do you have ideas, which things can be implemented on top of this TEP later? Wri
 
 # License
 
-This TEP is licensed under the [Creative Commons Attribution 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+This TEP is licensed under the [Creative Commons Attribution 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/). If this TEP contains computer source code, this source code is placed in the public domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
