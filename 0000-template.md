@@ -46,3 +46,7 @@ If there are some questions that have to be discussed during review process or t
 # Future possibilities
 
 Do you have ideas, which things can be implemented on top of this TEP later? Write possible ideas of new TEPs, which are related to this TEP.
+
+# License
+
+This TEP is licensed under the [Creative Commons Attribution 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
